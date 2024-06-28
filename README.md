@@ -1,6 +1,6 @@
 # Facebook Landing Page Clone
 
-[![Vercel Deployment](https://img.shields.io/badge/Vercel-Deployed-brightgreen)](https://facebook-landing-page-git-main-aryan-kanojias-projects.vercel.app/)
+[![Vercel Deployment](https://facebook-landing-page-66au32v7u-aryan-kanojias-projects.vercel.app/)
 
 A faithful recreation of the Facebook landing page, built by Aryan Kanojia as a hands-on exercise to sharpen his front-end development skills.
 
